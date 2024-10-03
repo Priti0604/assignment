@@ -1,7 +1,4 @@
-/*ASSIGNMENT 1:
-Name:sahil dhas
-Roll No. 2312
-Subject :Data Structures and algorithms
+/*
 Problem Statement:
 Consider a student database of SEIT class (at least 15 records). 
 Database contains different fields of 
