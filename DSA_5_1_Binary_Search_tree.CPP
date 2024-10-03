@@ -1,8 +1,4 @@
-//Paras Deshpande
-//Roll no:2319
-//batch:S2
-//DSAL
-//..................................................................................................
+
 // Assignment 
 /*Implement binary search tree and perform following operations:
 a) Insert (Handle insertion of duplicate entry)
