@@ -1,6 +1,4 @@
-/*Name:SAHIL DHAS
-Roll no:23514
-batch:S1
+/*
 DSAL
 Problem statment:
 Implement stack as an abstract data type using singly linked list and use this ADT for conversion of infix 
