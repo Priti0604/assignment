@@ -1,8 +1,3 @@
-//Paras Deshpande
-//Roll no:2319
-//batch:S2
-//DSAL
-//..................................................................................................
 // Assignment 3
 // Implement Circular Queue using Array. Perform following operations on it.
 //a) Insertion (Enqueue)
